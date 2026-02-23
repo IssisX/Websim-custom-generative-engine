@@ -1,0 +1,7 @@
+{
+  "name": "AI Studio Physics Lab (generative sandbox)",
+  "description": "A generative physics sandbox powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
